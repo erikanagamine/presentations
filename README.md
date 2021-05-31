@@ -1,6 +1,11 @@
-# Presentations
+# Presentations / Public appearances
 
 This repository contains all public presentations that I made. Fell free to download and use! But if you can, make reference of those repo.
+
+[YouTube Channel - Portuguese] Contributor: https://www.youtube.com/c/Caf%C3%A9comCloud
+
+[05/13/2021 - Portuguese] GoldenTalks - Episódio 64: Entrevista
+- Video: https://www.youtube.com/watch?v=1ZCy9qLKGgE
 
 [04/28/2021 - Portuguese] Cidamo: Cloud+Dados: será uma combinação perfeita
 -   Download: https://github.com/erikanagamine/presentations/raw/main/20210428-CloudDados_v1.pdf
