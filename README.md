@@ -12,7 +12,7 @@ This repository contains all public presentations that I made. Fell free to down
 -   Video: https://www.youtube.com/watch?v=Yj3D5nHwQaA&t=1s
 
 [08/28/2021 - Portuguese] TDC São Paulo: Big data Utilizando serviços não gerenciados na cloud, é possivel?
-- Download: 
+- Download: https://github.com/erikanagamine/presentations/raw/main/ppt/TDCSP2020-BigDataServicosNaoGerenciadosNaCloud.pdf
 
 [04/28/2020 - Portuguese] GoldenTalks - Episódio 8: Entrevista
 - Video: https://www.youtube.com/watch?v=AWa4joWiSx0
